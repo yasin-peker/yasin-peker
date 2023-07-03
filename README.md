@@ -1,19 +1,13 @@
 # 💫 About Me:
-Highly dedicated, enthusiastic, and motivated
-graduate Electrical and Electronics Engineer at METU
-with more than one two years of experience designing
-and implementing computer algorithms or models
-for creating, displaying, and processing various
-digital images. Ability to analyze signals and data,
-write code, test and resolve image processing
-issues, and develop effective techniques to improve
-image quality. Also experienced in hardware and
-embedded software development, interfacing of
-Microcontroller and Microprocessor. Proficient in
-Python, C, and C++ programming languages and Verilog HDL.
-Expertise in modeling tools Matlab and Simulink.
-Possess excellent analytical, communication,
-problem-solving, and team-working skills.
+As a highly dedicated, enthusiastic, and motivated senior Electrical and Electronics Engineer graduating from METU in June 2023, I am passionate about creating innovative solutions that push the boundaries of technology. With over two years of experience in designing and implementing computer algorithms and models for creating, displaying, and processing various digital images, I have developed a deep understanding of the technical aspects of image processing, signal analysis, and code development.
+
+In addition to my existing skills, I have expanded my expertise to include Computer Vision, Deep Learning, Machine Learning, and Data Science. I have hands-on experience working with the YOLO algorithm for Computer Vision and the SwinIR algorithm for Image Processing. These new skills have enabled me to develop effective techniques to improve image quality and analyze signals and data to solve complex problems.
+
+My passion for AI, ML, and Computer Vision is rooted in my firm belief that technology can improve the world. I am excited about exploring these fields' frontiers and eager to bring my skills and expertise to a dynamic team that shares my passion for innovation.
+
+With my experience in various industries, including defense, automotive, and energy, I have developed a unique perspective on how technology can be applied in diverse contexts. I possess excellent analytical, communication, problem-solving, and team-working skills, which enable me to collaborate effectively with others and deliver high-quality results.
+
+As I embark on the next phase of my career, I am excited to work with a company that shares my passion for innovation and is committed to using technology to impact the world positively. My skills, expertise, and passion will make me a valuable addition to any team.
 
 
 ## 🌐 Socials:
