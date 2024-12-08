@@ -1,13 +1,21 @@
 # 💫 About Me:
-As a highly dedicated, enthusiastic, and motivated senior Electrical and Electronics Engineer graduating from METU in June 2023, I am passionate about creating innovative solutions that push the boundaries of technology. With over two years of experience in designing and implementing computer algorithms and models for creating, displaying, and processing various digital images, I have developed a deep understanding of the technical aspects of image processing, signal analysis, and code development.
 
-In addition to my existing skills, I have expanded my expertise to include Computer Vision, Deep Learning, Machine Learning, and Data Science. I have hands-on experience working with the YOLO algorithm for Computer Vision and the SwinIR algorithm for Image Processing. These new skills have enabled me to develop effective techniques to improve image quality and analyze signals and data to solve complex problems.
+I am an M.Sc. Biomedical Engineer at Koç University with a strong focus on advancing healthcare technology through Artificial Intelligence, Signal Processing (Digital and Real-Time), Wearable Electronics, and Ultrasound Transducer. My journey began with a B.Sc. in Electrical and Electronics Engineering from METU, where I cultivated a passion for leveraging technology to solve complex real-world problems.
 
-My passion for AI, ML, and Computer Vision is rooted in my firm belief that technology can improve the world. I am excited about exploring these fields' frontiers and eager to bring my skills and expertise to a dynamic team that shares my passion for innovation.
+Over the years, I have accumulated expertise in developing cutting-edge solutions in fields such as biomedical engineering, AI, ML, DL, CV and digital signal/image processing. My work includes designing algorithms for continuous blood pressure monitoring using wearable graphene-based sensors and implementing advanced models like YOLO and SwinIR for Computer Vision and Image Processing tasks.
 
-With my experience in various industries, including defense, automotive, and energy, I have developed a unique perspective on how technology can be applied in diverse contexts. I possess excellent analytical, communication, problem-solving, and team-working skills, which enable me to collaborate effectively with others and deliver high-quality results.
+Technical Expertise:
+Artificial Intelligence & Machine Learning: Proficient in building deep learning models for signal and image analysis, utilizing tools like TensorFlow, PyTorch, and scikit-learn.
+Signal Processing & Wearable Devices: Experience designing bioimpedance systems and processing complex biomedical signals for real-time monitoring applications.
+Healthcare Applications: Expertise in developing non-invasive medical devices and imaging systems for innovative diagnostics.
+Industry Experience:
+I’ve had the privilege of contributing to impactful projects across industries such as defense, automotive, energy, and biomedical engineering. This has provided me with a diverse perspective on applying technology to practical challenges in various domains.
 
-As I embark on the next phase of my career, I am excited to work with a company that shares my passion for innovation and is committed to using technology to impact the world positively. My skills, expertise, and passion will make me a valuable addition to any team.
+What Drives Me:
+My passion lies in creating solutions that merge AI with healthcare, pushing the boundaries of wearable technology and medical diagnostics. I firmly believe in the power of innovation to enhance lives and make a lasting impact. I thrive in dynamic, collaborative environments where I can combine my technical skills and creativity to deliver meaningful results.
+
+Let’s Collaborate:
+I am open to research and development opportunities in AI, biomedical engineering, and wearable healthcare technologies. If you share my enthusiasm for creating transformative solutions, let’s connect and innovate together!
 
 
 ## 🌐 Socials:
